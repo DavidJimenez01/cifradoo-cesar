@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author david
+ * @author david jimenez - duvan poveda
  */
 public class Codecesar {
     
